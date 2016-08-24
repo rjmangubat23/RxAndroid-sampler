@@ -1,9 +1,7 @@
 ### RxAndroid-sampler
 
 This code was built around the GithubDemo code which contains the updated version of RxJava and Retrofit 2.
-
 See blog post for the full article: [http://randomdotnext.com/retrofit-rxjava/]
-
 <br>
 #####Reference:
 Code on github: [https://goo.gl/DGMF2F] <br>
