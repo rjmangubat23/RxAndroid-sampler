@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rjmangubat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/okio-1.6.0-318688dd51a5f7d09088e29e31c4cfaef2dafb08.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-00e456335426345dc64da1a5c39d78c42330ea53.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-a6b6d649cc6db5356ea4c92eceb2f9ce5b6095f6.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/classes-bc3b61538c1049c027a4b03f32300476add143f5.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.2-b82a992a8fa951fea4a8b8432b1389d17bd5429f.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/classes-4915833fccd106b3d45241b060b8f0a66c7c9fd7.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2-8be3106fedc814ff6d087b1a79e9b1e6fd9088ac.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-87cde660ee59063565562b27c97dc41f0ef5623c.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/classes-046ede2edd531bf7201106011162e0c2bf391d2b.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-36ee5d8e00ef076384d87556846145bd03842bed.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/gson-2.6.1-847f6377080a2314be165e384355d93a86f58459.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6-d4ba3d8b15370a81f1f4c2dcb0375bc8e364f97b.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/classes-c5a5c06f4f5e52d99383c7d33e89b748ac97dd1e.jar" />
+    </item>
+    <item
+        jar="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/rjmangubat/Desktop/RxAndroid-sampler/app/build/intermediates/pre-dexed/debug/classes-ecd997e57333070d491f99098d84df4db1c472a9.jar" />
+    </item>
+
+</items>
