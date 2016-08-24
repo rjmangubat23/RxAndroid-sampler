@@ -14,6 +14,10 @@ CardView/RecycleView UI Reference: [http://goo.gl/stNj2J]
 
 #####Additional Readings:
 http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
+
 http://reactivex.io/tutorials.html#android
+
+
 http://randomdotnext.com/retrofit-rxjava/
+
 https://medium.freecodecamp.com/rxandroid-and-retrofit-2-0-66dc52725fff#.8v17oxmhs
